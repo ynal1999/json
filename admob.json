@@ -1,0 +1,50 @@
+{
+    "ads_active": 1,
+    "ads_click":2,
+    "show_nativeads": 4,
+    "onesignalappid": "b4f040d2-5f27-4ef9-b1f4-ee68b77d4d8e",
+    "GBanner": "ca-app-pub-7337391320831375/5967477748",
+    "GInterstitial": "ca-app-pub-7337391320831375/9842626651",
+    "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "GRewarded": "ca-app-pub-7337391320831375/9370771791",
+    "GRewarded_Interstitial": "ca-app-pub-7337391320831375/3188506827",
+    "Gnative": "ca-app-pub-7337391320831375/4118445113",
+
+    "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "GIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "GIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "GIosnative": "ca-app-pub-3940256099942544/2247696110",
+
+
+    "BiddingBanner": "ca-app-pub-7337391320831375/5967477748",
+    "BiddingInterstitial": "ca-app-pub-7337391320831375/9842626651",
+    "BiddingInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "BiddingRewarded": "ca-app-pub-7337391320831375/9370771791",
+    "BiddingRewarded_Interstitial": "ca-app-pub-7337391320831375/3188506827",
+    "BiddingNative": "ca-app-pub-7337391320831375/4118445113",
+
+    "IosBiddingBanner": "ca-app-pub-3940256099942544/6300978111",
+    "IosBiddingInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "IosBiddingInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "IosBiddingRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "IosBiddingRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "IosBiddingNative": "ca-app-pub-3940256099942544/2247696110",
+
+    "FBBanner": "ca-app-pub-7337391320831375/5967477748",
+    "FBInterstitial": "ca-app-pub-7337391320831375/9842626651",
+    "FBInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "FBRewarded": "ca-app-pub-7337391320831375/9370771791",
+    "FBRewarded_Interstitial": "ca-app-pub-7337391320831375/3188506827",
+    "FbNative": "ca-app-pub-7337391320831375/4118445113",
+
+    "FBIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "FBIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "FBIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "FBIosRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "FBIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "FbIosNative": "ca-app-pub-3940256099942544/2247696110"
+
+   
+}
